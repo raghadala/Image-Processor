@@ -1,11 +1,4 @@
-# CMPT 120 Yet Another Image Processer
 # Starter code for cmpt120imageManip.py
-# Author(s): Divya Kapoor(301462659) & Raghad Alabdalla(301468593)
-# Date: December 1, 2021
-# Description:Programmed to edit and save images by adding filters, enlarging/shrinking and 
-# rotating the original image etc.
-# Programmed with replit
-
 import cmpt120imageProjHelper
 
 # defining variables
